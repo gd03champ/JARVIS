@@ -1,0 +1,15 @@
+SpeechRecognition
+googlesearch-python
+playsound==1.2.2
+pywhatkit
+PySerial
+Wikipedia
+argparse
+secure-smtplib
+requests
+imutils
+Pyjokes
+pyglet
+opencv-python
+tk-tools
+
